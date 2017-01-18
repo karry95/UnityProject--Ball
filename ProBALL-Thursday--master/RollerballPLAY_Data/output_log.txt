@@ -1,0 +1,59 @@
+Mono path[0] = 'C:/Users/Karry/Desktop/ProBALL-Thursday--master/RollerballPLAY_Data/Managed'
+Mono path[1] = 'C:/Users/Karry/Desktop/ProBALL-Thursday--master/RollerballPLAY_Data/Mono'
+Mono config path = 'C:/Users/Karry/Desktop/ProBALL-Thursday--master/RollerballPLAY_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Karry/Desktop/ProBALL-Thursday--master/RollerballPLAY_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55167
+Multi-casting "[IP] 192.168.43.248 [Port] 55167 [Flags] 2 [Guid] 2932029891 [EditorId] 1089355868 [Version] 1048832 [Id] WindowsPlayer(Lenovo) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.43.248:55167]
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 21.21.13.6909]
+    Renderer: NVIDIA GeForce 820M
+    Vendor:   NVIDIA
+    VRAM:     1999 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.139 seconds
+Platform assembly: C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoScriptCache.cpp Line: 375)
+
+Platform assembly: C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Karry\Desktop\ProBALL-Thursday--master\RollerballPLAY_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.830358 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 46d0 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'ExplosionMobile') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.013958 ms
+System memory in use before: 40.9 MB.
+System memory in use after: 40.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1254.
+Total: 0.840339 ms (FindLiveObjects: 0.075267 ms CreateObjectMapping: 0.026086 ms MarkObjects: 0.365216 ms  DeleteObjects: 0.371203 ms)
+
